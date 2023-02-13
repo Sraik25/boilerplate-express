@@ -1,6 +1,12 @@
 {
   "name": "fcc-learn-node-with-express",
   "version": "0.1.0",
+  "author": "Olek Mp",
+  "description": "This a test practice",
+  "keywords": [
+    "Practice",
+    "test"
+  ],
   "dependencies": {
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
